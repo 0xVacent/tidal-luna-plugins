@@ -1,0 +1,11 @@
+{
+	"name": "obs-now-playing",
+	"description": "Writes the current Tidal song (title, artist, progress, duration) and cover art to text/image files for OBS.",
+	"homepage": "https://github.com/0xVacent/tidal-luna-plugins#obs-now-playing",
+	"author": {
+		"name": "vacent",
+		"url": "https://github.com/0xVacent"
+	},
+	"exports": "./src/index.ts",
+	"type": "module"
+}
